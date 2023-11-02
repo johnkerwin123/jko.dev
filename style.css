@@ -229,6 +229,7 @@ p {
 
 .about .content .imgbx {
    margin-left: 40px;
+   border-radius: 50%;
 }
 
 .about .content .imgbx img {
