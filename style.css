@@ -233,6 +233,7 @@ p {
 
 .about .content .imgbx img {
    max-width: 100%;
+   border-radius: 50%;
 }
 
 .services .content {
